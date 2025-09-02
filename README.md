@@ -8,14 +8,14 @@
       <img src="https://img.shields.io/badge/Followers%20❤️-007bff?style=for-the-badge" alt="Followers" />
     </a>
     &nbsp;
-
 <a href="mailto:jandrescorrea19@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <a href="mailto:jandrescorrea19@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/discord/:serverId" alt="Gmail" />
 </a>
+
 
 </p>
 
