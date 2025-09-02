@@ -13,15 +13,19 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
+<a href="mailto:jandrescorrea19@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
 </p>
 
   ## 👨‍💻 &nbsp;About Me
 <div>
 
 - 🎓 Aspiring Full Stack Developer  
-- 🌱 Constantly exploring new tools and technologies to stay up-to-date.  
-- ⚡ Passionate about writing clean, maintainable, and impactful code.  
-- 🚀 Goal: Build scalable applications and contribute to open-source projects.
+- 🆙 Constantly exploring new tools and technologies to stay up-to-date.  
+- 🍵 Passionate about writing clean, maintainable, and impactful code.  
+- 🚀 Goal: Create convenient applications and help people automate their real problems.
   <br>
   
 
