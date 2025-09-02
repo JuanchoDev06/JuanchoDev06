@@ -29,7 +29,7 @@
 
   ## 🛠 &nbsp;My Tech Stacks
 
- [![My Skills](https://skillicons.dev/icons?i=js,java,html,css,mysql,spring,aws,angular,ts,py)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,html,css,spring,js,mysql,angular,ts,aws,py)](https://skillicons.dev)
 
 </div>
 
