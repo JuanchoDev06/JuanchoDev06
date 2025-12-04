@@ -45,11 +45,14 @@
 </div>
 
 
-  ## 📊 &nbsp;My activities
+## 📊 &nbsp;My activities
 
-  <a href="https://github.com/JuanchoDev06">
-    <img width=450 height=170 align="center" alt="JuanchoDev06" src="https://github-readme-stats.vercel.app/api?username=JuanchoDev06&theme=midnight-purple&show_icons=false&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
+<a href="https://github.com/JuanchoDev06?tab=repositories" rel="nofollow">
+  <img src="https://img.shields.io/badge/View%20all%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+</a>
+
+
+
 </div>
 
 
