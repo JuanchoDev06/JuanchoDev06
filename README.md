@@ -47,7 +47,7 @@
   ## 📊 &nbsp;My activities
 
   <a href="https://github.com/JuanchoDev06">
-    <img width=450 height=170 align="center" alt="JuanCode15" src="https://github-readme-stats.vercel.app/api?username=JuanchoDev06&theme=midnight-purple&show_icons=false&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width=450 height=170 align="center" alt="JuanchoDev06" src="https://github-readme-stats.vercel.app/api?username=JuanchoDev06&theme=midnight-purple&show_icons=false&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 
