@@ -4,7 +4,7 @@
 
 
 <p align="center">
- <a href="https://github.com/JuanchoDev06">
+ <a href="https://github.com/JuanchoDev06?tab=followers">
       <img src="https://img.shields.io/badge/Followers%20❤️-007bff?style=for-the-badge" alt="Followers" />
     </a>
     &nbsp;
